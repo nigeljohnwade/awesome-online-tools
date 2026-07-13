@@ -74,9 +74,9 @@
 
 -  [Shadows](https://brumm.af/shadows)
 -  [CSS Grid](https://grid.layoutit.com/)
-*  [Clip path generator](http://bennettfeely.com/clippy/)
-*  [Gradient generator](http://www.colorzilla.com/gradient-editor/)
-*  [Gradient generator](http://www.cssmatic.com/gradient-generator)
+-  [Clip path generator](http://bennettfeely.com/clippy/)
+-  [Gradient generator](http://www.colorzilla.com/gradient-editor/)
+-  [Gradient generator](http://www.cssmatic.com/gradient-generator)
 
 
 ### Placeholders
