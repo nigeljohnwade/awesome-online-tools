@@ -26,6 +26,7 @@
 ### Others
 
 -  [What Does % Mean?](https://wattenberger.com/blog/css-percents)
+-  [Cheatsheets for flex, grid, anchor positioning, and invoker commands by Polypane](https://polypane.app/cheatsheets#flex)
 
 ## Accessibility
 
@@ -42,10 +43,13 @@
 
 -  [Paciello group](https://www.paciellogroup.com/)
 
-### Information
+### Information & techniques
 
 -  [UK Home Office accessibility posters](https://ukhomeoffice.github.io/accessibility-posters/)
-
+-  [Making emoji and icons screen reader accessible](https://blog.pope.tech/2026/04/01/making-emojis-and-icons-screen-reader-accessible/)
+-  [Faux nested interactive controls](https://piccalil.li/blog/accessible-faux-nested-interactive-controls/)
+-  [Disclosure widget](https://adrianroselli.com/2020/05/disclosure-widgets.html)
+-  [A guide to accessible focus indicators](https://blog.pope.tech/2026/03/04/a-guide-to-accessible-focus-indicators/)
 ### Tools
 -  [Axe Chrome dev tools extension](https://www.deque.com/axe/)
 -  [Khan Academy Tota11y toolmark](https://khan.github.io/tota11y/)
